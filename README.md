@@ -1,1 +1,3 @@
-# Star-Wars-Survey-Guided-Project-8
+# Star-Wars-Survey
+
+This is a guided project, completed from the Data Analyst in Python Career Path on DataQuest.io.
